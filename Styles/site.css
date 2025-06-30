@@ -1,0 +1,28 @@
+﻿::-webkit-scrollbar {
+    width: 8px;
+    background: #24262d;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #35363a;
+    border-radius: 5px;
+}
+
+input[type="checkbox"] {
+    accent-color: #4fa3ff;
+}
+
+@media (max-width: 900px) {
+    .main-content {
+        padding: 1rem;
+    }
+
+    .card {
+        padding: 1rem;
+    }
+
+    .navbar-menu {
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+}
