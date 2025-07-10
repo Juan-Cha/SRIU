@@ -1,0 +1,9 @@
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\bin\Debug\SRIU.WebForm.exe.config
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\bin\Debug\SRIU.WebForm.exe
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\bin\Debug\SRIU.WebForm.pdb
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.csproj.AssemblyReference.cache
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.Properties.Resources.resources
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.csproj.GenerateResource.cache
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.csproj.CoreCompileInputs.cache
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.exe
+C:\Users\jddca\source\repos\SRIU\SRIU.WebForm\obj\Debug\SRIU.WebForm.pdb

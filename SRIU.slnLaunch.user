@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "SRIU\\SRIU.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SRIU.WebForm\\SRIU.WebForm.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
